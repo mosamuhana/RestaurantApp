@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "913990436685",
+    "project_id": "friendlyeats-e6ed5",
+    "storage_bucket": "friendlyeats-e6ed5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913990436685:android:7f7823cecc72c810db1904",
+        "android_client_info": {
+          "package_name": "com.mytec.friendlyeats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913990436685-i1gs4jo7efpenkbcvq0pmd56gtr7ibs3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mytec.friendlyeats",
+            "certificate_hash": "3dae836d341f5212f37dec5e34f1a42635a6f69d"
+          }
+        },
+        {
+          "client_id": "913990436685-fkvhthmq8plgnl4r9u339f65gljcm572.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiqq4fBczWOQg36-ZabqF39IrJBkVQRuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913990436685-fkvhthmq8plgnl4r9u339f65gljcm572.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
